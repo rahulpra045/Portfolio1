@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['events'], // Treat events as external
+      external: [], // Treat events as external
     },
   },
 })
