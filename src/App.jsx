@@ -7,7 +7,7 @@ import Skills from "./components/skills/Skills";
 import Stacks from "./components/stacks/Stacks";
 import Experience from "./components/experience/Experience";
 import Contact from "./components/contact/Contact";
-import Contact from "./components/connect/Connect";
+import Connect from "./components/connect/Connect";
 import "./index.css";
 function App() {
   const [state, setState] = useState({
